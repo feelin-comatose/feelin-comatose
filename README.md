@@ -1,4 +1,4 @@
-## Hi there 👋
+## mode: zxcursed 2021
 
 <!--
 **feelin-comatose/feelin-comatose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
