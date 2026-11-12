@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 ![til](./zxcursed-cat.gif)
 
-[main playlist](https://music.youtube.com/playlist?list=PLF0340q0HFGzBp8wdDLke8tg_JV2a3XDN&si=Tmpf3dTIhT1F7RfJ)
+[playlist 1](https://music.youtube.com/playlist?list=PLF0340q0HFGzBp8wdDLke8tg_JV2a3XDN&si=Tmpf3dTIhT1F7RfJ)
 [shikimori](https://shikimori.io/parasocial)
 [steam](https://steamcommunity.com/id/whoamitodecidemylife)
