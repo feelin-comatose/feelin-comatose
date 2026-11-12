@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![til](./zxcursed-cat.gif) ![til](./dota2.gif)
-
+![til](./zxcursed-cat.gif)
