@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![til](./zxcursed-cat.gif)
+![til](./dota2.gif)
